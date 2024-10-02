@@ -1,2 +1,8 @@
 .zig-cache/
 zig-out/
+a.out
+*.o
+small-zig
+small-c
+small-go
+small-tinygo
