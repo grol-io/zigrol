@@ -6,3 +6,7 @@ small-zig
 small-c
 small-go
 small-tinygo
+small-syscall-asm
+small-syscall-c
+small-syscall-zig
+
